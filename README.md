@@ -1,1 +1,1 @@
-FTN Informatika course JavaScript and TypeScript college records mini project.
+FTN Informatika course JavaScript and TypeScript faculty records mini project.
